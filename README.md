@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumar-chandan891 (Chandan Kumar)
 - 👀 I’m interested in Spring and event processing technologies
-- 🌱 I’m currently learning Apache Kafka and Google Cloud.
+- 🌱 I’m currently learning Go lang with Apache Kafka and Cloud Technologies.
 - 💞️ I’m looking to collaborate on Spring projects.
 - 📫 Reach me at - kumar.chandan891@gmail.com
 
