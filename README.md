@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kumar-chandan891 (Chandan Kumar)
+- 👋 Hi, I’m @kumar-chandan891 (Chandan Kumar), a Software Developer working at OLA Cabs.
 - 👀 I’m interested in Spring and event processing technologies
-- 🌱 I’m currently learning Go lang with Apache Kafka and Cloud Technologies.
-- 💞️ I’m looking to collaborate on Spring projects.
+- 🌱 I’m currently learning Node.js with Apache Kafka and Cloud Technologies.
+- 💞️ I’m looking to collaborate on Spring and Node projects.
 - 📫 Reach me at - kumar.chandan891@gmail.com
 
 <!---
